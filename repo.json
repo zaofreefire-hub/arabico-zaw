@@ -1,0 +1,7 @@
+{
+  "name": "arabico-zaw",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/arabico-zaw/arabico-zaw/main/plugins.json"
+  ]
+}
