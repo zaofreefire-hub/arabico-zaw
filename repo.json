@@ -1,11 +1,7 @@
 {
-  "name": "Arabico ZAW",
-  "description": "Arabico ZAW CloudStream Repo",
+  "name": "arabico-zaw",
   "manifestVersion": 1,
   "pluginLists": [
-    {
-      "name": "Arabico Providers",
-      "url": "https://raw.githubusercontent.com/zaofreefire-hub/arabico-zaw/main/plugins.json"
-    }
+    "https://raw.githubusercontent.com/zaofreefire-hub/arabico-zaw/main/plugins.json"
   ]
 }
