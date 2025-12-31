@@ -1,6 +1,6 @@
 {
-  "name": "Arabico Test Repo",
-  "description": "Repo for testing real CloudStream providers",
+  "name": "Arabico ZAW",
+  "description": "Arabico ZAW CloudStream Repo",
   "manifestVersion": 1,
   "pluginLists": [
     {
