@@ -1,7 +1,10 @@
-[
-  {
-    "name": "Arabico Test Provider",
-    "url": "https://raw.githubusercontent.com/recloudstream/extensions/master/builds/AllAnime.cs3",
-    "version": 1
-  }
-]
+{
+  "name": "Arabico Providers",
+  "plugins": [
+    {
+      "name": "Arabico Test",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/zaofreefire-hub/arabico-zaw/main/cs-kraptor.cs3"
+    }
+  ]
+}
