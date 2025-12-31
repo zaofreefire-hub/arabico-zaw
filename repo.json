@@ -1,7 +1,11 @@
 {
   "name": "arabico-zaw",
+  "description": "Arabic CloudStream Providers",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/zaofreefire-hub/arabico-zaw/main/plugins.json"
+    {
+      "name": "Arabico Providers",
+      "url": "https://raw.githubusercontent.com/zaofreefire-hub/arabico-zaw/main/plugins.json"
+    }
   ]
 }
