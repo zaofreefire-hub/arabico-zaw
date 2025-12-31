@@ -1,7 +1,11 @@
 {
-  "name": "arabico-zaw",
+  "name": "Arabico Test Repo",
+  "description": "Repo for testing real CloudStream providers",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/arabico-zaw/arabico-zaw/main/plugins.json"
+    {
+      "name": "Arabico Providers",
+      "url": "https://raw.githubusercontent.com/zaofreefire-hub/arabico-zaw/main/plugins.json"
+    }
   ]
 }
