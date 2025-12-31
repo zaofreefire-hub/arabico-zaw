@@ -1,10 +1,10 @@
 {
-  "name": "Arabico Providers",
+  "name": "Test Providers",
   "plugins": [
     {
-      "name": "Arabico Test",
+      "name": "Hexated Test",
       "version": 1,
-      "url": "https://raw.githubusercontent.com/zaofreefire-hub/arabico-zaw/main/cs-kraptor.cs3"
+      "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions/builds/HexatedProviders.cs3"
     }
   ]
 }
